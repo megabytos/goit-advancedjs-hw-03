@@ -1,0 +1,1 @@
+# JavaScript Advanced homework 02

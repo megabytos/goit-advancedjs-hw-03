@@ -1,0 +1,18 @@
+.form {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.form label input {
+    display: block;
+    clear: both;
+    padding: 6px 10px;
+    max-width: 120px;
+}
+
+.form button{
+  padding: 8px 20px; 
+  cursor: pointer;
+  font-size: 16px;
+}
